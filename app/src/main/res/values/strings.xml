@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JobSearch</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_login">Login</string>
+    <string name="login_signin">Signin</string>
+    <string name="signin_firstname">Firstname</string>
+    <string name="signin_lastname">Lastname</string>
+    <string name="signin_email">Email</string>
+    <string name="signin_password">Password</string>
+    <string name="signin_passwordbis">Reenter password</string>
+</resources>

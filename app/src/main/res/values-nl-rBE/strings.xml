@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobSearch</string>
+    <string name="login_email">e-mail</string>
+    <string name="login_password">Wachtwoord</string>
+    <string name="login_login">Inloggen</string>
+    <string name="login_signin">Registreren</string>
+    <string name="signin_passwordbis">Voer paswoord opnieuw in</string>
+    <string name="signin_password">Wachtwoord</string>
+    <string name="signin_email">e-mail</string>
+    <string name="signin_firstname">Voornaam</string>
+    <string name="signin_lastname">Naam</string>
+</resources>
